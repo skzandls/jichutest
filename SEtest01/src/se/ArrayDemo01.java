@@ -5,6 +5,8 @@ package se;
  * @version 1.0
  * @date 2020/12/2 10:22 下午
  */
+
+//this is  a test
 public class ArrayDemo01 {
     public static int[] nums = {1, 2, 3, 4, 5};
 
