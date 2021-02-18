@@ -6,7 +6,8 @@ package se;
  * @date 2020/12/2 10:22 下午
  */
 
-//this is  a test1
+//this is  a test
+    //why cant
 
 public class ArrayDemo01 {
     public static int[] nums = {1, 2, 3, 4, 5};
