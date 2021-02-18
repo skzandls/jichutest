@@ -9,6 +9,8 @@ package se;
 //this is  a test
     //why cant
 
+    //
+
 public class ArrayDemo01 {
     public static int[] nums = {1, 2, 3, 4, 5};
 
