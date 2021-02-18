@@ -6,7 +6,7 @@ package se;
  * @date 2020/10/28 11:53 上午
  */
 
-// a new test test
+// a new test test1
 public class Demo03 {
     public static void main(String[] args) {
         int [] test= {1,2,4,9,10,3,5,22,2,10};
